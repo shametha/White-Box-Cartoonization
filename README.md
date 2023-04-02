@@ -1,9 +1,9 @@
 # Whitebox Cartoonizer
 
 ## Backend
-## Installation
+### Installation
 
-### Application works on:
+#### Application works on:
 
 - Flask==1.0.2
 - gunicorn==20.0.4
@@ -18,7 +18,7 @@
 - flask-ngrok
 
 
-### Using `miniconda or anaconda`
+#### Using `miniconda or anaconda`
 
 1. Make a virtual environment using `create` and activate it
 ```
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### Using `virtualenv`
+#### Using `virtualenv`
 
 1. Make a virtual environment using `virutalenv` and activate it
 ```
